@@ -14,6 +14,7 @@
 - L2TP Account Manager
 - PPTP Account Manager
 - SSTP Account Manager
+- Auto Backup And Restore
 - Auto Delete Expired Account
 - Fully automatic script
 - Admin Control
