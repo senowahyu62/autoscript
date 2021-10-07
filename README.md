@@ -2,7 +2,7 @@
 **For Debian and Ubuntu** 
 - Optimal in Ubuntu 18.04
   
->apt update -y && apt install wget -y && wget -o setup.sh https://raw.githubusercontent.com/senowahyu62/autoscript/main/setup.sh && chmod +x setup.sh && ./setup.sh 
+>apt update -y && apt install wget -y && wget -O setup.sh https://raw.githubusercontent.com/senowahyu62/autoscript/main/setup.sh && chmod +x setup.sh && ./setup.sh 
   
 **Feature**
 - AutoKill Multi Login User
