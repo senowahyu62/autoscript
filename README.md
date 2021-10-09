@@ -1,5 +1,6 @@
 # Autoscript VPN
 **For Debian and Ubuntu** 
+![FOTO](https://raw.githubusercontent.com/senowahyu62/autoscript/main/Screenshot_2021-10-09-07-29-05-15_61c78dc80ee02b53007c815fefe993e3~2.jpg)
 - Optimal in Ubuntu 18.04
 ``` 
 apt update -y && apt install wget -y && wget -O setup.sh https://raw.githubusercontent.com/senowahyu62/autoscript/main/setup.sh && chmod +x setup.sh && ./setup.sh 
@@ -23,5 +24,4 @@ apt update -y && apt install wget -y && wget -O setup.sh https://raw.githubuserc
 
 **Need License / Source? Call Me On Telegram** [Senowahyu62](https://t.me/senowahyu62)
   
-**Telegram Group** [Senowahyu62](https://t.me/senovpn)
-![Minion](https://raw.githubusercontent.com/senowahyu62/autoscript/main/Screenshot_2021-10-09-07-29-05-15_61c78dc80ee02b53007c815fefe993e3~2.jpg)
+**Telegram Group** [Senovpn](https://t.me/senovpn)
