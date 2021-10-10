@@ -25,3 +25,11 @@ apt update -y && apt install wget -y && wget -O setup.sh https://raw.githubuserc
 **Need License / Source? Call Me On Telegram** [Senowahyu62](https://t.me/senowahyu62)
   
 **Telegram Group** [Senovpn](https://t.me/senovpn)
+
+
+
+
+__Whats next?__
+- VMESS, TROJAN, VLESS, And Shadowsocks on port __TLS 443__
+- Fix bug And Update Menu Interface
+- Web Panel For Add Resseller
