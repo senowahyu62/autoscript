@@ -1,4 +1,4 @@
-# Autoscript VPN
+# Autoscript VPN 
 **For Debian and Ubuntu** 
 
 
@@ -33,7 +33,11 @@ apt update -y && apt install wget -y && apt install screen -y && wget -O setup.s
 
 
 
-__Whats next?__
-- VMESS, TROJAN, VLESS, And Shadowsocks on port __TLS 443__
-- Fix bug And Update Menu Interface
-- Web Panel For Add Resseller
+__Whats next Update?__
+- VMESS, TROJAN-GO, VLESS, And SSH WS On Port __TLS 443. [Available On Beta Version Script]__
+
+
+- Fix bug And Update Menu Interface. 
+
+
+- Web Panel For Add Resseller. __[Available On Beta Version Script]__
