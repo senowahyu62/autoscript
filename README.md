@@ -26,9 +26,19 @@ apt update -y && apt install wget -y && apt install screen -y && wget -O setup.s
 - Change port
 - Auto Reboot Time
 
-**Need License / Source? Call Me On Telegram** [Senowahyu62](https://t.me/senowahyu62)
-  
-**Telegram Group** [Senovpn](https://t.me/senovpn)
+
+
+
+
+
+**Need License / Source? Call Me On 
+Telegram :** [Senowahyu62](https://t.me/senowahyu62)
+
+**Telegram Group :** [Senovpn](https://t.me/senovpn)
+
+
+
+
 
 
 
@@ -37,7 +47,7 @@ __Whats next Update?__
 - VMESS, TROJAN-GO, VLESS, And SSH WS On Port __TLS 443. [Available On Beta Version Script]__
 
 
-- Fix bug And Update Menu Interface. 
+- Error Fixing in Writing Scripts And Update Menu Interface. 
 
 
 - Web Panel For Add Resseller. __[Available On Beta Version Script]__
