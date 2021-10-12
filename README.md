@@ -43,11 +43,6 @@ Telegram :** [Senowahyu62](https://t.me/senowahyu62)
 
 
 
-__Whats next Update?__
-- VMESS, TROJAN-GO, VLESS, And SSH WS On Port __TLS 443. [Available On Beta Version Script]__
-
-
-- Error Fixing in Writing Scripts And Update Menu Interface. 
-
-
-- Web Panel For Add Resseller. __[Available On Beta Version Script]__
+__Next Project?__
+- VMESS, TROJAN-GO, VLESS, And SSH WS On Port __TLS 443. [Available On Beta Version Script](https://github.com/senowahyu62/scv2)__
+- Web Panel For Add Resseller. __[Available On Beta Version Script](https://github.com/senowahyu62/scv2)____
