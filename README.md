@@ -4,7 +4,7 @@
 
 ![FOTO](https://raw.githubusercontent.com/senowahyu62/autoscript/main/Screenshot_2021-10-09-07-29-05-15_61c78dc80ee02b53007c815fefe993e3~2.jpg)
 
-- Optimal in Ubuntu 18.04
+__Command To Install__
 
 ``` 
 apt update -y && apt install wget -y && apt install screen -y && wget -O setup.sh https://raw.githubusercontent.com/senowahyu62/autoscript/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh 
